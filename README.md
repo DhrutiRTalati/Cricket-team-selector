@@ -16,3 +16,5 @@ This project simulates an IPL-style auction where the best 11 players are select
  How to Run
 ```bash
 python cricket_team_selector.py
+REPORT
+https://drive.google.com/file/d/1va1YDLVy__mWvM3REoXEzMhH6uBXDeaI/view?usp=sharing
